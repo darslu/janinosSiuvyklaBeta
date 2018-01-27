@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		}
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://janinossiuvykla.lt/</title>
+  <link>http://janinossiuvykla.lt/</link>
+
+<item>
+     <link>https://janinossiuvykla.lt/</link>
+     <title>Janinos siuvykla</title>
+     <description>Janinos siuvykla</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
